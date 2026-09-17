@@ -1,0 +1,726 @@
+ERC report (2026-09-16T04:07:33+0000, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(26.67 mm, 33.02 mm): Symbol #PWR032 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(26.67 mm, 49.53 mm): Symbol J1 [Connectors | USB/RP-019A1P-1JAX7V]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(26.67 mm, 49.53 mm): Symbol J1 [Connectors | USB/RP-019A1P-1JAX7V]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(48.26 mm, 43.18 mm): Symbol #PWR2 [PWR_NET]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(41.91 mm, 66.04 mm): Symbol #PWR1 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(58.42 mm, 52.07 mm): Symbol C1 [Capacitors | MLCC | M2012/RP-01GYS...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(58.42 mm, 52.07 mm): Symbol C1 [Capacitors | MLCC | M2012/RP-01GYS...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(58.42 mm, 57.15 mm): Symbol #PWR3 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(76.20 mm, 44.45 mm): Symbol U2 [Integrated_Circuits | Power | LDO/...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(76.20 mm, 44.45 mm): Symbol U2 [Integrated_Circuits | Power | LDO/...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(76.20 mm, 53.34 mm): Symbol #PWR8 [GND]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(85.09 mm, 45.72 mm): Symbol U2 Pin 2 [OUT, Power output, Line]
+    @(85.09 mm, 43.18 mm): Symbol U2 Pin 4 [OUT, Power output, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(93.98 mm, 43.18 mm): Symbol #PWR10 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(93.98 mm, 52.07 mm): Symbol C5 [Capacitors | MLCC | M2012/RP-01GYS...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(93.98 mm, 52.07 mm): Symbol C5 [Capacitors | MLCC | M2012/RP-01GYS...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(93.98 mm, 57.15 mm): Symbol #PWR11 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(38.10 mm, 119.38 mm): Symbol R9 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(38.10 mm, 119.38 mm): Symbol R9 [Resistors | Chip | M1005/RP-019A1P...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(58.42 mm, 119.38 mm): Symbol R1 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(58.42 mm, 119.38 mm): Symbol R1 [Resistors | Chip | M1005/RP-019A1P...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(38.10 mm, 128.27 mm): Symbol R10 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(38.10 mm, 128.27 mm): Symbol R10 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(83.82 mm, 111.76 mm): Symbol #PWR4 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(27.94 mm, 138.43 mm): Symbol R6 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(27.94 mm, 138.43 mm): Symbol R6 [Resistors | Chip | M1005/RP-019A1P...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(71.12 mm, 135.89 mm): Symbol U3 [Integrated_Circuits | Memory | Ser...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(71.12 mm, 135.89 mm): Symbol U3 [Integrated_Circuits | Memory | Ser...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(90.17 mm, 133.35 mm): Symbol C2 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(90.17 mm, 133.35 mm): Symbol C2 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(90.17 mm, 138.43 mm): Symbol #PWR6 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(27.94 mm, 163.83 mm): Symbol SW1 [Electromechanical | Switches | Tac...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(27.94 mm, 163.83 mm): Symbol SW1 [Electromechanical | Switches | Tac...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(82.55 mm, 147.32 mm): Symbol #PWR5 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(27.94 mm, 172.72 mm): Symbol #PWR17 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(152.40 mm, 135.89 mm): Symbol #PWR035 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(205.74 mm, 36.83 mm): Symbol C8 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(205.74 mm, 36.83 mm): Symbol C8 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(205.74 mm, 46.99 mm): Symbol #PWR18 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(152.40 mm, 148.59 mm): Symbol #PWR037 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(217.17 mm, 36.83 mm): Symbol C10 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(217.17 mm, 36.83 mm): Symbol C10 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(152.40 mm, 161.29 mm): Symbol #PWR036 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(228.60 mm, 36.83 mm): Symbol C11 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(228.60 mm, 36.83 mm): Symbol C11 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(205.74 mm, 107.95 mm): Symbol #PWR034 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(106.68 mm, 209.55 mm): Symbol C3 [Capacitors | MLCC | M1005/RP-01C89...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(106.68 mm, 209.55 mm): Symbol C3 [Capacitors | MLCC | M1005/RP-01C89...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(237.49 mm, 27.94 mm): Symbol #PWR20 [PWR_NET]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(95.25 mm, 227.33 mm): Symbol #PWR7 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(116.84 mm, 217.17 mm): Symbol X1 [Frequency_Timing | Crystals/RP-01G...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(116.84 mm, 217.17 mm): Symbol X1 [Frequency_Timing | Crystals/RP-01G...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(226.06 mm, 101.60 mm): Symbol L1 [Inductors | Fixed | M2016/RP-01GY5...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(226.06 mm, 101.60 mm): Symbol L1 [Inductors | Fixed | M2016/RP-01GY5...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(172.72 mm, 179.07 mm): Symbol #PWR21 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(106.68 mm, 224.79 mm): Symbol C4 [Capacitors | MLCC | M1005/RP-01C89...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(106.68 mm, 224.79 mm): Symbol C4 [Capacitors | MLCC | M1005/RP-01C89...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(234.95 mm, 87.63 mm): Symbol #PWR16 [PWR_NET]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(234.95 mm, 87.63 mm): Symbol #PWR16 Pin 1 [Power input, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(234.95 mm, 101.60 mm): Symbol C7 [Capacitors | MLCC | M1005/RP-019A1...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(234.95 mm, 101.60 mm): Symbol C7 [Capacitors | MLCC | M1005/RP-019A1...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(209.55 mm, 153.67 mm): Symbol U1 [Integrated_Circuits | Microcontrol...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(209.55 mm, 153.67 mm): Symbol U1 [Integrated_Circuits | Microcontrol...]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(231.14 mm, 121.92 mm): Symbol U1 Pin 46 [VREG_AVDD, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(246.38 mm, 87.63 mm): Symbol #PWR033 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(134.62 mm, 224.79 mm): Symbol R2 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(134.62 mm, 224.79 mm): Symbol R2 [Resistors | Chip | M1005/RP-019A1P...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(21.59 mm, 261.62 mm): Symbol MH1 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(21.59 mm, 261.62 mm): Symbol MH1 [Mechanical | Mounting_Holes/RP-01H...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(246.38 mm, 101.60 mm): Symbol C6 [Capacitors | MLCC | M1005/RP-019A1...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(246.38 mm, 101.60 mm): Symbol C6 [Capacitors | MLCC | M1005/RP-019A1...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(21.59 mm, 266.70 mm): Symbol MH2 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(21.59 mm, 266.70 mm): Symbol MH2 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(246.38 mm, 110.49 mm): Symbol #PWR14 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(21.59 mm, 271.78 mm): Symbol MH3 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(21.59 mm, 271.78 mm): Symbol MH3 [Mechanical | Mounting_Holes/RP-01H...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(269.24 mm, 66.04 mm): Symbol R7 [Resistors | Chip | M1005/RP-01C89V...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(269.24 mm, 66.04 mm): Symbol R7 [Resistors | Chip | M1005/RP-01C89V...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(21.59 mm, 276.86 mm): Symbol MH4 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(21.59 mm, 276.86 mm): Symbol MH4 [Mechanical | Mounting_Holes/RP-01H...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(276.86 mm, 27.94 mm): Symbol #PWR22 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(269.24 mm, 74.93 mm): Symbol R8 [Resistors | Chip | M1005/RP-01C89V...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(269.24 mm, 74.93 mm): Symbol R8 [Resistors | Chip | M1005/RP-01C89V...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(196.85 mm, 208.28 mm): Symbol #PWR041 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(285.75 mm, 36.83 mm): Symbol C12 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(285.75 mm, 36.83 mm): Symbol C12 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(273.05 mm, 102.87 mm): Symbol #PWR13 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(273.05 mm, 109.22 mm): Symbol R3 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(273.05 mm, 109.22 mm): Symbol R3 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(214.63 mm, 208.28 mm): Symbol #PWR042 [PWR_NET]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(266.70 mm, 135.89 mm): Symbol #PWR040 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(297.18 mm, 36.83 mm): Symbol C13 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(297.18 mm, 36.83 mm): Symbol C13 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(273.05 mm, 124.46 mm): Symbol C9 [Capacitors | MLCC | M1005/RP-019A1...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(273.05 mm, 124.46 mm): Symbol C9 [Capacitors | MLCC | M1005/RP-019A1...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(273.05 mm, 128.27 mm): Symbol #PWR19 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(266.70 mm, 151.13 mm): Symbol #PWR039 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(308.61 mm, 36.83 mm): Symbol C14 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(308.61 mm, 36.83 mm): Symbol C14 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(232.41 mm, 208.28 mm): Symbol #PWR09 [PWR_NET]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(271.78 mm, 153.67 mm): Symbol #PWR038 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(320.04 mm, 36.83 mm): Symbol C15 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(320.04 mm, 36.83 mm): Symbol C15 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(299.72 mm, 135.89 mm): Symbol #PWR27 [PWR_NET]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(299.72 mm, 142.24 mm): Symbol C19 [Capacitors | MLCC | M2012/RP-01GYS...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(299.72 mm, 142.24 mm): Symbol C19 [Capacitors | MLCC | M2012/RP-01GYS...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(331.47 mm, 36.83 mm): Symbol C16 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(331.47 mm, 36.83 mm): Symbol C16 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(299.72 mm, 147.32 mm): Symbol #PWR28 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(264.16 mm, 215.90 mm): Symbol SW2 [Electromechanical | Switches | Tac...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(264.16 mm, 215.90 mm): Symbol SW2 [Electromechanical | Switches | Tac...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(342.90 mm, 36.83 mm): Symbol C17 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(342.90 mm, 36.83 mm): Symbol C17 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(321.31 mm, 143.51 mm): Symbol J2 [Connectors | Pin_Headers/RP-01JWH2...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(321.31 mm, 143.51 mm): Symbol J2 [Connectors | Pin_Headers/RP-01JWH2...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(279.40 mm, 215.90 mm): Symbol R4 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(279.40 mm, 215.90 mm): Symbol R4 [Resistors | Chip | M1005/RP-019A1P...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(312.42 mm, 167.64 mm): Symbol #PWR24 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(354.33 mm, 36.83 mm): Symbol C18 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(354.33 mm, 36.83 mm): Symbol C18 [Capacitors | MLCC | M1005/RP-01BJ9...]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(354.33 mm, 45.09 mm): Symbol #PWR23 Pin 1 [Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(354.33 mm, 44.45 mm): Vertical Wire, length 0.64 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(354.33 mm, 45.09 mm): Symbol #PWR23 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(289.56 mm, 217.17 mm): Symbol #PWR15 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(342.90 mm, 120.65 mm): Symbol #PWR25 [PWR_NET]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(342.90 mm, 166.37 mm): Symbol #PWR26 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - BOM Directives'
+    ; warning
+    @(271.78 mm, 273.05 mm): Symbol SBREV1 [SCH_BOM_REV]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(332.74 mm, 212.09 mm): Symbol #PWR31 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(358.14 mm, 166.37 mm): Symbol #PWR29 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - BOM Directives'
+    ; warning
+    @(300.99 mm, 259.08 mm): Symbol VARIANT1 [VARIANT]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(345.44 mm, 203.20 mm): Symbol J4 [Connectors | Rectangular/RP-01EKJ1...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(345.44 mm, 203.20 mm): Symbol J4 [Connectors | Rectangular/RP-01EKJ1...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'RPI_COMPILED'.
+    ; warning
+    @(379.73 mm, 143.51 mm): Symbol J3 [Connectors | Pin_Headers/RP-01JWH2...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI_DB'
+    ; warning
+    @(379.73 mm, 143.51 mm): Symbol J3 [Connectors | Pin_Headers/RP-01JWH2...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - Power'
+    ; warning
+    @(388.62 mm, 167.64 mm): Symbol #PWR30 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'RPI - BOM Directives'
+    ; warning
+    @(323.85 mm, 274.32 mm): Symbol PCB1 [PCB_PWB_REV]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 84.92 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 84.92 mm): Symbol U10 Pin 1 [SDO, Bidirectional, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(77.46 mm, 77.30 mm): Horizontal Wire, length 20.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(77.46 mm, 77.30 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 87.46 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(80.00 mm, 77.30 mm): Horizontal Wire, length 20.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(80.00 mm, 77.30 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 90.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 92.54 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(67.30 mm, 95.08 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 60.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 70.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(77.46 mm, 100.16 mm): Horizontal Wire, length 20.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(77.46 mm, 100.16 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 80.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(80.00 mm, 100.16 mm): Horizontal Wire, length 20.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(80.00 mm, 100.16 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 90.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 100.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 50.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 70.00 mm): Horizontal Wire, length 20.00 mm
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(69.76 mm, 96.19 mm): Global Label 'ESC_Cm'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 83.49 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(84.76 mm, 83.49 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 86.03 mm): Symbol U20 Pin 1 [P0.1, Passive, Line]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(69.76 mm, 98.73 mm): Global Label 'ESC_Bm'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 96.19 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 98.73 mm): Horizontal Wire, length 15.00 mm
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(69.76 mm, 111.43 mm): Global Label 'ESC_Vn'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(130.00 mm, 30.00 mm): Horizontal Wire, length 20.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(130.00 mm, 30.00 mm): Label 'VBAT_ESC'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(69.76 mm, 113.97 mm): Global Label 'ESC_Am'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 106.35 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 108.89 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(130.00 mm, 50.00 mm): Horizontal Wire, length 20.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 111.43 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.76 mm, 113.97 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 98.73 mm): Horizontal Wire, length 15.00 mm
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(150.00 mm, 30.00 mm): Global Label 'VBAT'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 101.27 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 103.81 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(115.24 mm, 103.81 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 106.35 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(115.24 mm, 106.35 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 108.89 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(115.24 mm, 108.89 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 111.43 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(115.24 mm, 111.43 mm): Horizontal Wire, length 15.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(115.24 mm, 113.97 mm): Horizontal Wire, length 15.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(115.24 mm, 113.97 mm): Horizontal Wire, length 15.00 mm
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 98.73 mm): Global Label 'ESC_Cc'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 101.27 mm): Global Label 'ESC_Cp'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 103.81 mm): Global Label 'ESC_Bc'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 106.35 mm): Global Label 'ESC_Bp'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 108.89 mm): Global Label 'ESC_Ac'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(130.24 mm, 111.43 mm): Global Label 'ESC_Ap'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(200.00 mm, 80.00 mm): Label 'PHASE_A'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(200.00 mm, 90.00 mm): Label 'PHASE_B'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(200.00 mm, 100.00 mm): Label 'PHASE_C'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(110.00 mm, 60.00 mm): Horizontal Wire, length 30.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(110.00 mm, 70.00 mm): Horizontal Wire, length 30.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(110.00 mm, 80.00 mm): Horizontal Wire, length 30.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(110.00 mm, 90.00 mm): Horizontal Wire, length 30.00 mm
+
+***** Sheet /IMU/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(77.46 mm, 79.84 mm): Symbol U10 Pin 5 [VDDIO, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(80.00 mm, 79.84 mm): Symbol U10 Pin 8 [VDD, Power input, Line]
+[multiple_net_names]: Both GPIO18 and BMI270_SCK are attached to the same items; GPIO18 will be used in the netlist
+    ; warning
+    @(120.00 mm, 60.00 mm): Global Label 'GPIO18'
+    @(100.00 mm, 60.00 mm): Label 'BMI270_SCK'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(67.30 mm, 97.62 mm): Symbol U10 Pin 9 [INT2, Bidirectional, Line]
+[multiple_net_names]: Both GPIO19 and BMI270_MOSI are attached to the same items; GPIO19 will be used in the netlist
+    ; warning
+    @(120.00 mm, 70.00 mm): Global Label 'GPIO19'
+    @(100.00 mm, 70.00 mm): Label 'BMI270_MOSI'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.16 mm, 87.46 mm): Symbol U10 Pin 2 [ASDx, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.16 mm, 90.00 mm): Symbol U10 Pin 3 [ASCx, Output, Line]
+[multiple_net_names]: Both GPIO16 and BMI270_MISO are attached to the same items; GPIO16 will be used in the netlist
+    ; warning
+    @(47.30 mm, 95.08 mm): Global Label 'GPIO16'
+    @(100.00 mm, 80.00 mm): Label 'BMI270_MISO'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(77.46 mm, 102.70 mm): Symbol U10 Pin 6 [GNDIO, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.16 mm, 92.54 mm): Symbol U10 Pin 10 [OCSB, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(80.00 mm, 102.70 mm): Symbol U10 Pin 7 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(90.16 mm, 95.08 mm): Symbol U10 Pin 11 [OSDO, Bidirectional, Line]
+[multiple_net_names]: Both GPIO17 and BMI270_CS are attached to the same items; GPIO17 will be used in the netlist
+    ; warning
+    @(120.00 mm, 90.00 mm): Global Label 'GPIO17'
+    @(100.00 mm, 90.00 mm): Label 'BMI270_CS'
+[multiple_net_names]: Both GPIO20 and BMI270_INT1 are attached to the same items; GPIO20 will be used in the netlist
+    ; warning
+    @(120.00 mm, 100.00 mm): Global Label 'GPIO20'
+    @(100.00 mm, 100.00 mm): Label 'BMI270_INT1'
+
+***** Sheet /SERVO/
+[multiple_net_names]: Both VBUS and SERVO_5V are attached to the same items; VBUS will be used in the netlist
+    ; warning
+    @(120.00 mm, 50.00 mm): Global Label 'VBUS'
+    @(100.00 mm, 50.00 mm): Label 'SERVO_5V'
+[multiple_net_names]: Both GPIO15 and SERVO_PWM are attached to the same items; GPIO15 will be used in the netlist
+    ; warning
+    @(120.00 mm, 70.00 mm): Global Label 'GPIO15'
+    @(100.00 mm, 70.00 mm): Label 'SERVO_PWM'
+
+***** Sheet /ESC/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 86.03 mm): Symbol U20 Pin 1 [P0.1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 88.57 mm): Symbol U20 Pin 2 [P0.0, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 91.11 mm): Symbol U20 Pin 3 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 93.65 mm): Symbol U20 Pin 4 [VDD, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(84.76 mm, 96.19 mm): Symbol U20 Pin 5 [RSTb/C2CK, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 101.27 mm): Symbol U20 Pin 20 [P0.2, Passive, Line]
+[multiple_net_names]: Both VBAT and VBAT_ESC are attached to the same items; VBAT will be used in the netlist
+    ; warning
+    @(150.00 mm, 30.00 mm): Global Label 'VBAT'
+    @(130.00 mm, 30.00 mm): Label 'VBAT_ESC'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 103.81 mm): Symbol U20 Pin 19 [P0.3, Passive, Line]
+[multiple_net_names]: Both GPIO14 and DSHOT are attached to the same items; GPIO14 will be used in the netlist
+    ; warning
+    @(150.00 mm, 50.00 mm): Global Label 'GPIO14'
+    @(130.00 mm, 50.00 mm): Label 'DSHOT'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(115.24 mm, 86.03 mm): Symbol U20 Pin 17 [P0.5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(84.76 mm, 116.51 mm): Symbol U20 Pin 12 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(115.24 mm, 88.57 mm): Symbol U20 Pin 14 [P1.0, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(115.24 mm, 91.11 mm): Symbol U20 Pin 13 [P1.1, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(115.24 mm, 93.65 mm): Symbol U20 Pin 11 [P1.2, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(115.24 mm, 96.19 mm): Symbol U20 Pin 10 [P1.3, Output, Line]
+
+***** Sheet /COMPANION/
+[multiple_net_names]: Both GPIO0 and COMP_TX are attached to the same items; GPIO0 will be used in the netlist
+    ; warning
+    @(140.00 mm, 60.00 mm): Global Label 'GPIO0'
+    @(110.00 mm, 60.00 mm): Label 'COMP_TX'
+[multiple_net_names]: Both GPIO1 and COMP_RX are attached to the same items; GPIO1 will be used in the netlist
+    ; warning
+    @(140.00 mm, 70.00 mm): Global Label 'GPIO1'
+    @(110.00 mm, 70.00 mm): Label 'COMP_RX'
+[multiple_net_names]: Both GPIO2 and COMP_SDA are attached to the same items; GPIO2 will be used in the netlist
+    ; warning
+    @(140.00 mm, 80.00 mm): Global Label 'GPIO2'
+    @(110.00 mm, 80.00 mm): Label 'COMP_SDA'
+[multiple_net_names]: Both GPIO3 and COMP_SCL are attached to the same items; GPIO3 will be used in the netlist
+    ; warning
+    @(140.00 mm, 90.00 mm): Global Label 'GPIO3'
+    @(110.00 mm, 90.00 mm): Label 'COMP_SCL'
+
+ ** ERC messages: 233  Errors 29  Warnings 204

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bee-core")(type "KiCad")(uri "${KIPRJMOD}/bee-core.kicad_sym")(options "")(descr "Bee Core custom symbols"))
+  (lib (name "RPI_DB")(type "KiCad")(uri "${KIPRJMOD}/RPI_DB.kicad_sym")(options "")(descr "Extracted RPi Minimal database symbols"))
+  (lib (name "RPI - Power")(type "KiCad")(uri "${KIPRJMOD}/RPI_-_Power.kicad_sym")(options "")(descr "Extracted RPi Minimal power symbols"))
+  (lib (name "RPI - BOM Directives")(type "KiCad")(uri "${KIPRJMOD}/RPI_-_BOM_Directives.kicad_sym")(options "")(descr "Extracted RPi Minimal BOM directives"))
+)

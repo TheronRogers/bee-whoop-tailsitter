@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-09-16T04:39:22Z",
+  "documents": {
+    "active": {
+      "document": "BeeWhoopTailsitter",
+      "file_path": "/Users/theronrogers/Documents/VibeCAD/BeeWhoopTailsitter.FCStd",
+      "label": "BeeWhoopTailsitter",
+      "saved": true,
+      "uid": "59b262de-29bc-4a95-bf06-6fe7ff27f75c"
+    }
+  },
+  "modeling_engine": "vibescript",
+  "project_id": "e0477b0362e8ce43",
+  "schema": "vibecad-project-v2",
+  "summary": "",
+  "title": "BeeWhoopTailsitter",
+  "updated_at": "2026-09-16T04:39:22Z",
+  "version": 2
+}

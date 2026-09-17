@@ -1,0 +1,11 @@
+# KiCad temp / backups
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+fp-info-cache
+*-cache.lib
+__pycache__/
+.DS_Store
+*.FCBak
+electronics/**/work/
+electronics/**/vendor/rp2350-minimal/
