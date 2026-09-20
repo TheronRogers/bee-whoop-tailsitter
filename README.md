@@ -38,4 +38,6 @@ See `electronics/bee-core-bringup/` docs (`DESIGN.md`, `ESC-TOPOLOGY-DECISION.md
 
 ## Status
 
-Active hardware learning path. PCB routing handed back for manual / alternate tooling.
+**Paused** (see `PAUSED.md`). Notes preserved under `notes/` so the trail survives the pause.
+
+PCB routing still awaits manual / alternate tooling when resumed.
