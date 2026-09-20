@@ -10,7 +10,7 @@ Paused ~2026-09-19 so Theron can park the work without losing the trail.
 
 ## Resume checklist
 
-1. Read `notes/README.md` then `01`–`06` for mission/cost/airframe context.
+1. Read `notes/README.md` then `01`–`06` (mission/cost) and `10`–`11` (electronics + CAD discussion).
 2. Open `electronics/bee-core-bringup/bee-core-v01/HANDOFF.md` for PCB state.
 3. CAD: `cad/BeeWhoopTailsitter.FCStd` / build script.
 4. Revisit 0802 vs 1102 thrust at ~100 g AUW before locking motors.
