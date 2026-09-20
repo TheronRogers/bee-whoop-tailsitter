@@ -13,6 +13,7 @@ Handoff notes from the water-drop / mop-up tailsitter prove-it workstream (Aug 2
 
 
 | `10-electronics-discussion.md` | Bee/Tailsitter agent electronics discussion locks + KiCad pause state |
-| `11-cad-discussion.md` | Rad CAD / CAD agent airframe geometry, files, thrust flag |
+| `11-cad-discussion.md` | Rad CAD / CAD agent airframe geometry, materials, files, thrust |
+| `open-questions.md` | Resume checklist — span/thrust/AIO/servo/PCB/firmware |
 
 Hardware learning path (BeeWhoop CAD + Bee Core PCB) lives under `../cad/` and `../electronics/`.
